@@ -1,0 +1,31 @@
+{
+    "name": "FlorianWolters/PHP-Component-Test",
+    "description": "A set of assert methods for PHPUnit.",
+    "type": "library",
+    "keywords": ["phpunit", "test", "assert", "assertion"],
+    "homepage": "http://github.com/FlorianWolters/PHP-Component-Test",
+    "license": "LGPL-3.0+",
+    "authors": [
+      {
+        "name": "Florian Wolters",
+        "email": "wolters.fl@gmail.com",
+        "homepage": "http://blog.florianwolters.de",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "FlorianWolters": [
+                "src/php",
+                "src/tests/mocks/php",
+                "src/tests/unit-tests/php"
+            ]
+        }
+    }
+}
