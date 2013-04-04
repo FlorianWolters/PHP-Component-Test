@@ -1,5 +1,5 @@
 {
-    "name": "FlorianWolters/PHP-Component-Test",
+    "name": "florianwolters/php-component-test",
     "description": "A set of assert methods for PHPUnit.",
     "type": "library",
     "keywords": ["phpunit", "test", "assert", "assertion"],
