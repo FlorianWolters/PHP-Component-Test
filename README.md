@@ -223,7 +223,7 @@ You should have received a copy of the GNU Lesser General Public License along w
       "sebastianbergmann/phpunit · GitHub"
 [20]: http://semver.org
       "Semantic Versioning"
-[21]: http://packagist.org/packages/florianwolters/php-component-test
-      "florianwolters/php-component-test - Packagist"
+[21]: http://packagist.org/packages/florianwolters/component-test
+      "florianwolters/component-test - Packagist"
 [22]: http://packagist.org
       "Packagist"
